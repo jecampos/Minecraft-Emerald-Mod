@@ -9,4 +9,3 @@ Tool and Armor image files from https://www.curseforge.com/minecraft/texture-pac
 
 # Images
 
-https://github.com/jecampos/Minecraft-Emerald-Mod/blob/7041d12301096347509ee5347d7805627bd9ad53/screenshots/2021-04-10_16.09.21.png
