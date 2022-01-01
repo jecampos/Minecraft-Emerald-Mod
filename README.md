@@ -6,3 +6,5 @@ This emerald minecraft mod was a small side project that I was working during th
 
 # Credits
 Tool and Armor image files from https://www.curseforge.com/minecraft/texture-packs/emerald-gear/files
+
+# Images
