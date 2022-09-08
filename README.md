@@ -2,7 +2,7 @@
 A minecraft emerald mod made for the 1.15.2 version of minecraft
 
 # Description
-This emerald minecraft mod was a small side project that I was working during the spring of 2021. The emerald mod includes a new craftable set of emerald amror and tools that generally falls in between the range of diamond and netherite in terms of stats. The emerald amrmor inlucdes a permanent luck status effect and for every additional piece of armor added, the luck effect is increased by 1. When all pieces of armor are put together, there is a permament "Hero of the Village" status effect.
+This emerald minecraft mod was a small side project that I was working during the spring of 2021. The emerald mod includes a new craftable set of emerald armor and tools that generally falls in between the range of diamond and netherite in terms of stats. The emerald armor inlucdes a permanent luck status effect and for every additional piece of armor added, the luck effect is increased by 1. When all pieces of armor are put together, there is a permament "Hero of the Village" status effect.
 
 # Credits
 Tool and Armor image files from https://www.curseforge.com/minecraft/texture-packs/emerald-gear/files
